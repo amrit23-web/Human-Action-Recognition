@@ -10,3 +10,6 @@ in which the face is recognised as belonging to a certain person.
 The entire procedure is then repeated, assisting in the creation of a face recognition model,
 one of the most carefully examined biometric technologies.
 Basically, there are two main approaches used in facelift surgery today:
+
+
+![images (1)](https://user-images.githubusercontent.com/98414882/216647933-1890f7db-f46e-4d2f-90be-ea3e37ea69ed.png)
